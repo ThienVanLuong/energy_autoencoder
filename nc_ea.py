@@ -4,7 +4,7 @@ Implementation of NC-EA (energy autoencoder concept) with single user. Detail is
 in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2020.2979138.  
   
 - Created by Thien Van Luong, Research Fellow at University of Southampton, UK.
-- Contact: thien.luong@soton.ac.uk, https://tvluong.wordpres.com 
+- Contact: thien.luong@soton.ac.uk, https://tvluong.wordpress.com 
 - Requirements: Tensorflow 1.x
 """
 
