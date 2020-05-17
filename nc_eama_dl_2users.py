@@ -4,7 +4,7 @@ Implementation of NC-EAMA downlink(energy autoencoder) with 2 users. Detail is i
 in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2020.2979138.  
   
 - Created by Thien Van Luong, Research Fellow at University of Southampton, UK.
-- Contact: thien.luong@soton.ac.uk, https://tvluong.wordpres.com 
+- Contact: thien.luong@soton.ac.uk, https://tvluong.wordpress.com 
 - Requirements: Tensorflow 2.0, Keras 2.3.1
 """
 
